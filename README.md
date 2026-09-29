@@ -1,3 +1,5 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/21b1d127-07b2-4aa0-8e41-a57918a3bafd" />
+
 # ¡Hola! Soy Edison Tanqueño 👋
 
 Estudiante de Ingeniería de Software enfocado en desarrollo Backend, arquitecturas Full Stack, ERPs y despliegue en la nube. Me apasiona construir sistemas escalables, seguros y automatizados.
