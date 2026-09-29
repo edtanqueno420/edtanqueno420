@@ -41,10 +41,6 @@ Estudiante de Ingeniería de Software enfocado en desarrollo Backend, arquitectu
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edtanqueno420&theme=tokyonight&column=4" alt="Trophies" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=edtanqueno420&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
